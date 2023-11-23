@@ -1,6 +1,7 @@
-this text is for testing 
+    this text is for testing 
 if any line in it contains
 any bans words
 it will be stroked 
-if your name is hamzah is 
+if your name is hamza
 then it will be stroked.
+    rrrrrr
